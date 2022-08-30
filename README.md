@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 👋 Hi, I'm @impapapao <br />
 🌱 I’m currently learning Python
 
-Reach me in 
-•Linkedin: paolo15
+Reach me in <br />
+• linkedin.com/in/paolo15
