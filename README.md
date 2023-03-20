@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 
 -->
 👋 Hi, I'm @impapapao <br />
-🌱 I’m currently learning Python, HTML, CSS, JavaScript
+🌱 I’m currently learning C#, HTML, CSS, JavaScript
 
 
