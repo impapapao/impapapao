@@ -1,4 +1,4 @@
-### Hi there 👋 Paolo Gonzales
+### Hi there 👋
 
 <!--
 **impapapao/impapapao** is a ✨ _special_ ✨ repository because its (this file) appears on your GitHub profile.
@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 
 -->
 👋 Hi, I'm @impapapao <br />
-🌱 I’m currently learning C#, HTML, CSS, JavaScript
+🌱 I’m currently learning Python, HTML, CSS, JavaScript
 
 
