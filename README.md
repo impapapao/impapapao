@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 
 -->
 👋 Hi, I'm @impapapao <br />
-🌱 I’m currently learning C#, HTML, CSS, JavaScript, .NET Framework
+🌱 I’m currently learning Go, C++, C# .NET Framework
 
 
