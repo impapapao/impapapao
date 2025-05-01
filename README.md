@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 
 -->
 👋 Hi, I'm @impapapao <br />
-🌱 I’m currently learning Bash.
+🌱 I’m currently learning Bash, Python.
 <code><a href="https://www.gnu.org/software/bash/" title="Bash" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="bash" width="40" height="40"/></a></code>
 
